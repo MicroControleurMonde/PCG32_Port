@@ -27,7 +27,7 @@ To use the PCG32 random number generator, you can directly copy the code into yo
 
 ## Dependencies
 This code requires **MicroPython** to run on your embedded device (ESP32, RP2040, etc.).
-- **MicroPython** (https://micropython.org/)
+- **MicroPython**
 - **`machine`** and **`time`** modules.
 
 ## License
@@ -36,10 +36,10 @@ This project is licensed under the Apache License 2.0 (Same as initial code)
 ## Authors
 Original C implementation by [Melissa O'Neill](http://www.pcg-random.org).  
 
-Python port by [MicroControleurMonde](https://github.com/MicroControleurMonde).
+Python port by MicroControleurMonde
 
 ## References
 - [PCG Random Number Generation for C](https://www.pcg-random.org/download.html)
 
 ## Updates
-- An improved version of the code for Pyboard v1.1 using the pyb.rng() fonction to seed the PCG generator shall come soon.
+- An improved version of the code for Pyboard v1.1 using the pyb.rng() fonction to seed the PCG generator with some entropy shall come soon.
