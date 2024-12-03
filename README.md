@@ -43,3 +43,4 @@ Python port by MicroControleurMonde
 
 ## Updates
 - An improved version of the code for Pyboard v1.1 using the pyb.rng() fonction to seed the PCG generator with some entropy shall come soon.
+- Validation tests will come in a later stage (***Dieharder***/***Ent***)
