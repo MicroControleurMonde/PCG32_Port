@@ -15,6 +15,7 @@ The **PCG32** algorithm provides high-quality, fast, and statistically robust ra
   
 #### Code Overview
 The code is fully documented in the source file
+[Source Code](https://github.com/MicroControleurMonde/PCG32_Port/blob/main/PCG32_Minimal_Port_PyBoard.py)
 
 ## Output:
 ```
