@@ -42,5 +42,5 @@ Micro-python port by MicroControleurMonde
 - [PCG Random Number Generation for C](https://www.pcg-random.org/download.html)
 
 ## Updates
-- An improved version of the code for Pyboard v1.1 using the pyb.rng() fonction to seed the PCG generator with some entropy shall come soon.
+- An improved version of the code for Pyboard v1.1 using the `pyb.rng()` fonction to seed the PCG generator with some entropy shall come soon.
 - Validation tests will come in a later stage (***Dieharder***/***Ent***)
