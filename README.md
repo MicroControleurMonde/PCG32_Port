@@ -37,4 +37,4 @@ Original C implementation by [Melissa O'Neill](http://www.pcg-random.org).
 Python port by [MicroControleurMonde](https://github.com/MicroControleurMonde).
 
 ## References
-- [PCG Random Number Generation for C](http://www.pcg-random.org)
+- [PCG Random Number Generation for C](https://www.pcg-random.org/download.html)
