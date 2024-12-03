@@ -36,7 +36,7 @@ This project is licensed under the Apache License 2.0 (Same as initial code)
 ## Authors
 Original C implementation by [Melissa O'Neill](http://www.pcg-random.org).  
 
-Python port by MicroControleurMonde
+Micro-python port by MicroControleurMonde
 
 ## References
 - [PCG Random Number Generation for C](https://www.pcg-random.org/download.html)
