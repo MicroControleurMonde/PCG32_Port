@@ -35,7 +35,11 @@ This project is licensed under the Apache License 2.0 (Same as initial code)
 
 ## Authors
 Original C implementation by [Melissa O'Neill](http://www.pcg-random.org).  
+
 Python port by [MicroControleurMonde](https://github.com/MicroControleurMonde).
 
 ## References
 - [PCG Random Number Generation for C](https://www.pcg-random.org/download.html)
+
+## Updates
+- An improved version of the code for Pyboard v1.1 using the pyb.rng() fonction to seed the PCG generator shall come soon.
