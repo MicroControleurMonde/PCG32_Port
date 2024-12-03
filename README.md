@@ -41,6 +41,7 @@ Micro-python port by MicroControleurMonde
 ## References
 - [PCG Random Number Generation for C](https://www.pcg-random.org/download.html)
 
-## Updates
-- An improved version of the code for Pyboard v1.1 using the **`pyb.rng()`** fonction to seed the PCG generator with some entropy shall come soon.
+## Updates esp32_rng.py
+- An improved version of the code for Pyboard v1.1 using the **`pyb.rng()`** fonction (Hardware TRNG use)  to seed the PCG generator with some entropy shall come soon.
+- An improved version of the code for ESP32-S using the **`esp32_rng.py()`** fonction (Hardware TRNG use)  to seed the PCG generator.
 - Validation tests will come in a later stage (***Dieharder***/***Ent***)
