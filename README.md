@@ -50,7 +50,12 @@ Micro-python port by MicroControleurMonde
 
 [Source Code - PyBoard Rng Seed](https://github.com/MicroControleurMonde/PCG32_Port/blob/main/PCG32_Minimal_Port_Rng_PyBoard.py) and [Code Documentation](https://github.com/MicroControleurMonde/PCG32_Port/blob/main/PCG32_Minimal_Port_Rng_PyBoard.md)
 
-###    10.2. PCG32 improved with use of the module `esp32_rng.py` for the seeding - ESP32 version:
+###    10.2. PCG32 improved with use  `esp32_rng.py` for the seeding - ESP32 version:
+
+[Source Code - ESP32 Rng Seed](https://github.com/MicroControleurMonde/PCG32_Port/blob/main/PCG32_Minimal_Port_Rng_ESP32.py)
+
+and 
+- **`esp32_rng`** module sources can be found here: [Link](https://github.com/MicroControleurMonde/ESP32_RNG/blob/main/esp32_rng.py)
 
 #### Output:
 ```
