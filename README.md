@@ -78,3 +78,4 @@ Random number between 1 and 1000:  66
 - Generation of the random values sets
 - Ent tests
 - Dieharder tests
+- Tests results analyses / evaluation
