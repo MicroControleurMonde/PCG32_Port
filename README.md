@@ -74,4 +74,7 @@ Random number between 1 and 1000:  66
 
 ## 11. *TO DO*
 
-- Validation tests will come in a later stage (***Dieharder***/***Ent***)
+- Range specifications for testing
+- Generation of the random values sets
+- Ent tests
+- Dieharder tests
