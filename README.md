@@ -38,7 +38,7 @@ Original C implementation by [Melissa O'Neill](http://www.pcg-random.org).
 
 Micro-python port by MicroControleurMonde
 
-## 9.References
+## 9.Reference
 - [PCG Random Number Generation for C](https://www.pcg-random.org/download.html)
 
 ## 10.Updates Hardware Seed (Pyboard and ESP32 )
